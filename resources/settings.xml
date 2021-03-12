@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Verzeichnis">
+        <setting label="Url fuer update" type="select"   id="url" values="|TVSKIN Orange|TVSKIN Violett|TVSKIN Blue|Build K.|Build C."/>
+</category>
+</settings>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.kangool.update" name="K. Updater" version="0.0.2" provider-name="Kangool">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Load Little Updates For Addondata Settings and PVR Without Installing The Build New </summary>
+	<summary lang="de">Ladet Kleine Updates Für Addondata Einstellungen und PVR Ohne Das Komplette Build Neu Installieren Zu Müssen</summary>
+    <description lang="en">Load Little Updates For Addondata Settings and PVR Without Installing The Build New</description>
+	<description lang="de">Ladet Kleine Updates Für Addondata Einstellungen und PVR Ohne Das Komplette Build Neu Installieren Zu Müssen</description>
+    <license>MIT-Lizenz</license>
+    <platform>all</platform>
+    <language></language>
+  </extension>
+</addon>
